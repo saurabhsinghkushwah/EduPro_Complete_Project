@@ -1,0 +1,11 @@
+,Check,Value
+0,Users required-field missing cells,0
+1,Users duplicate primary IDs,0
+2,Courses required-field missing cells,0
+3,Courses duplicate primary IDs,0
+4,Transactions required-field missing cells,0
+5,Transactions duplicate primary IDs,0
+6,Unmatched UserID,0
+7,Unmatched CourseID,0
+8,Joined rows,10000
+9,Repeated user-course pairs (not deleted),0

@@ -1,0 +1,5 @@
+PASS: dataset counts, validated joins, preference denominators, empty-group rates and concentration.
+PASS: Unfiltered dashboard {'Registered learners in segment': '3,000', 'Learners with matching enrollments': '3,000', 'Matching enrollments': '10,000', 'Enrollments / registered learner': '3.33', 'Matching participation rate': '100.0%', 'Enrollment share of top 10% matching active learners': '42.34%'}
+PASS: Empty older age group {'Registered learners in segment': '0', 'Learners with matching enrollments': '0', 'Matching enrollments': '0', 'Enrollments / registered learner': 'N/A', 'Matching participation rate': 'N/A'}
+PASS: 18–25 / Data Science {'Registered learners in segment': '1,121', 'Learners with matching enrollments': '254', 'Matching enrollments': '343', 'Enrollments / registered learner': '0.31', 'Matching participation rate': '22.7%', 'Enrollment share of top 10% matching active learners': '20.41%'}
+PASS: Empty category selection {'Registered learners in segment': '1,121', 'Learners with matching enrollments': '0', 'Matching enrollments': '0', 'Enrollments / registered learner': '0.00', 'Matching participation rate': '0.0%'}

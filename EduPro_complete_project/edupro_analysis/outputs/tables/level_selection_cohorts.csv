@@ -1,0 +1,4 @@
+CourseLevel,Enrollments,UniqueLearnersSelectingLevel,MeanThisLevelEnrollmentsPerSelectingLearner,MeanAllLevelEnrollmentsForSelectingLearners
+Beginner,3573,1596,2.238721804511278,5.105263157894737
+Intermediate,2952,1464,2.0163934426229506,5.387978142076503
+Advanced,3475,1608,2.1610696517412937,5.070273631840796

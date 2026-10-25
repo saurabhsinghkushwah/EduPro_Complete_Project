@@ -1,0 +1,51 @@
+{
+  "DataAssertions": "PASS",
+  "DashboardSmokeTests": [
+    {
+      "Scenario": "Unfiltered dashboard",
+      "Pass": true,
+      "Metrics": {
+        "Registered learners in segment": "3,000",
+        "Learners with matching enrollments": "3,000",
+        "Matching enrollments": "10,000",
+        "Enrollments / registered learner": "3.33",
+        "Matching participation rate": "100.0%",
+        "Enrollment share of top 10% matching active learners": "42.34%"
+      }
+    },
+    {
+      "Scenario": "Empty older age group",
+      "Pass": true,
+      "Metrics": {
+        "Registered learners in segment": "0",
+        "Learners with matching enrollments": "0",
+        "Matching enrollments": "0",
+        "Enrollments / registered learner": "N/A",
+        "Matching participation rate": "N/A"
+      }
+    },
+    {
+      "Scenario": "18\u201325 / Data Science",
+      "Pass": true,
+      "Metrics": {
+        "Registered learners in segment": "1,121",
+        "Learners with matching enrollments": "254",
+        "Matching enrollments": "343",
+        "Enrollments / registered learner": "0.31",
+        "Matching participation rate": "22.7%",
+        "Enrollment share of top 10% matching active learners": "20.41%"
+      }
+    },
+    {
+      "Scenario": "Empty category selection",
+      "Pass": true,
+      "Metrics": {
+        "Registered learners in segment": "1,121",
+        "Learners with matching enrollments": "0",
+        "Matching enrollments": "0",
+        "Enrollments / registered learner": "0.00",
+        "Matching participation rate": "0.0%"
+      }
+    }
+  ]
+}
